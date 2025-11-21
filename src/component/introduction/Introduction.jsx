@@ -14,7 +14,7 @@ function Introduction() {
     <>
     <div className="container Introduction ">
         <div className="row mt-5">
-            <div className="col-12 col-lg-6  mt-5 order-2 order-lg-1">
+            <div className="col-12 col-lg-6  mt-4 order-2 order-lg-1">
               <h2 className="text-center mt-5">Hello and Welcome!</h2>
                 <h2 className="text-center mt-5"> I'm <span >Lakshit </span><span> Poojari</span></h2>
                 <p className="text-center mt-5"><span>Passionate Developer </span>|<span> Creative Thinker </span>|<span> Lifelong Learner</span></p><br />

@@ -15,11 +15,11 @@ function Skills() {
     <div className='container mt-5'>
       <div className="mt-5 text-center">
         <h1 className='text-center skill-head mt-5'>Skills</h1>
-        <h4 className='text-center text text-muted mt-4'>
+        <h4 className='text-center text mt-4'>
   A showcase of my technical skills, tools, and technologies I’ve mastered for building data-driven and interactive solutions.
 </h4>
         <div className=" row mt-5 skills justify-content-center">
-          <div className="col-12 col-sm-6 col-lg-3 d-flex justify-content-center">
+          <div className="col-12 col-sm-6 col-lg-3 d-flex justify-content-center m-3">
             <img src={html} alt="html" /> 
           </div>
           
